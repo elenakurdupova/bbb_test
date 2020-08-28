@@ -1,3 +1,4 @@
 Initial commit to test issue key working.
 Test changes inside a branch.
 Will this commit with [INV-1] in commit message send me a notification?
+Will this commit with [INV-1] in commit message send me a notification 2?
