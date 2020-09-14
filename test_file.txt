@@ -11,3 +11,4 @@ What if commits are not allowed to change last update field
 Webhook testing3
 It looks like that this is a bug in webhooks.
 Test disabled webhooks
+Testing discard cloned files.
