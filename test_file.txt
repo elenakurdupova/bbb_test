@@ -12,3 +12,4 @@ Webhook testing3
 It looks like that this is a bug in webhooks.
 Test disabled webhooks
 Testing discard cloned files.
+Этот текст не будет корректно отображён, если не выставлена UTF-8.
