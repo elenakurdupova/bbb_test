@@ -13,3 +13,4 @@ It looks like that this is a bug in webhooks.
 Test disabled webhooks
 Testing discard cloned files.
 Этот текст не будет корректно отображён, если не выставлена UTF-8.
+Test webhooks smoke testing 3.7.1 09.10.2020
