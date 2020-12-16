@@ -16,3 +16,4 @@ Testing discard cloned files.
 Test webhooks smoke testing 3.7.1 09.10.2020
 Test tracked folders with JMESPath
 Test special symbols $%#\àèù異体字
+Test new UI
