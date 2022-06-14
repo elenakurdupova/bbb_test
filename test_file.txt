@@ -21,3 +21,4 @@ May 6 EU testing with GitHub OAuth
 Webhook testing May 6
 Testing on DigMyDaya
 OAuth testing
+PAT testing June 14
