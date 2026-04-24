@@ -26,3 +26,5 @@ Webhook indexing test June 14 2022
 Smart commits testing
 Smart commits testing June 14 2022
 OAuth test July 25 2022
+Testing new columns in Manage repositories table - Last commit date and time
+Testing new columns in Manage repositories table - 30-days commit count
