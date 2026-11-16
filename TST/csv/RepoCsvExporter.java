@@ -6,11 +6,11 @@ public final class RepoCsvExporter {
     public record Repo(String name, String url, int commits) { }
 
     public static String export(List<Repo> repos) {
-        StringBuilder out = new StringBuilder();
+        StringBuilder out = new StringBuilder("name,url,commits\r\n");
         for (Repo repo : repos) {
             out.append(field(repo.name())).append(',')
                .append(field(repo.url())).append(',')
-               .append(repo.commits()).append('\n');
+               .append(repo.commits()).append("\r\n");
         }
         return out.toString();
     }
